@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RDV Manager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="create_new_meeting">Create New Meeting</string>
+    <string name="fill_the_details_below_to_add_a_meeting">Fill the details below to add a meeting</string>
+</resources>
